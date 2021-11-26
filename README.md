@@ -1,5 +1,5 @@
 # Etude sur les Arbres Remarquables
-Ce projet a pour étude l'impact des Arbres Remarquables sur la qualité de l'air à Paris selon les sources du site OpenData de Paris (https://opendata.paris.fr/explore/dataset/arbresremarquablesparis/information/) et l'état des lieux de la qualité de l'air à Paris(https://www.paris.fr/pages/etat-des-lieux-de-la-qualite-de-l-air-a-paris-7101)  
+Ce projet a pour étude l'impact des Arbres Remarquables sur la qualité de l'air à Paris selon les sources du site OpenData de Paris (https://opendata.paris.fr/explore/dataset/arbresremarquablesparis/information/) et l'état des lieux de la qualité de l'air à Paris (https://www.paris.fr/pages/etat-des-lieux-de-la-qualite-de-l-air-a-paris-7101)  
 
 Il est composé de 5 éléments:
 1. Le fichier modifié csv utilisé pour l'analyse de données intitulé "Arbres_Remarquables_Source" d'extension .csv 
