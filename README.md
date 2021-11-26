@@ -7,6 +7,6 @@ Il est composé de 5 éléments:
 3. Le fichier csv exporté du code R intitulé "DataFrameExport" d'extension.csv utilisé pour la data visualization 
 4. Le fichier de data visualization intitulé "Dataviz.pbix" d'extension .pbix 
 5. Le PowerPoint de présentation de l'étude composé de 3 axes:
-  5. L'Analyse factorielle des données mixtes 
-  5. Les Analyses bivariées 
-  5. La Data Visualization 
+    1. L'Analyse factorielle des données mixtes 
+    2. Les Analyses bivariées 
+    3. La Data Visualization 
