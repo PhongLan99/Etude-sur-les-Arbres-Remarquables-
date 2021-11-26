@@ -8,4 +8,4 @@ Il est composé de 5 éléments:
 -Le PowerPoint de présentation de l'étude composé de 3 axes:
 I. L'Analyse factorielle des données mixtes 
 II. Les Analyses bivariées 
-III. La Data Visualization 
+III. La Data Visualization a
